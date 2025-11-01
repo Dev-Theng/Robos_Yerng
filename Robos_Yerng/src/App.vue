@@ -10,10 +10,12 @@
         </ul>
       </nav>
     </div>
+
+    <h1>Hello world</h1>
   </header>
+
 </template>
 
 
 <style scoped>
 /* Optional custom styles if needed */
-</style>
