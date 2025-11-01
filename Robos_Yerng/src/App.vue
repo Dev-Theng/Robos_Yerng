@@ -19,4 +19,3 @@
 
 <style scoped>
 /* Optional custom styles if needed */
-</style>
