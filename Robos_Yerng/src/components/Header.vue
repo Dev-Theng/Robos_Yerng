@@ -1,6 +1,4 @@
-<template>
-
-        
+<template>    
     <!-- ---------- HEADER ---------- -->
     <div class="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 sticky top-0 z-50 flex border-b lg:ps-75  bg-base-100 border-base-content/20 sticky top-0 z-50 flex border-b lg:ps-75 ">
         <div class="mx-auto w-full max-w-7xl">
@@ -1175,11 +1173,17 @@
           class="text-base-content flex gap-6 text-base font-medium max-lg:mt-4 max-lg:flex-col lg:items-center lg:gap-10"
         >
           <a href="#" class="hover:text-primary">HOME PAGE</a>
-          <a href="#" class="hover:text-primary">ABOUT US </a>
+          <a href="#" class="hover:text-primary">FAVORITE</a>
           <a href="#" class="hover:text-primary">SHOP</a>
           <a href="#" class="hover:text-primary">BLOG</a>
-          <a href="#" class="hover:text-primary">PAGE</a>
+          <a href="#" class="hover:text-primary">CARTS</a>
           <a href="#" class="hover:text-primary">CONTACT US</a>
+          <!-- <a href="#" class="hover:text-primary"><svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
+  <path fill-rule="evenodd" d="M7 6a2 2 0 0 1 2-2h11a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-2v-4a3 3 0 0 0-3-3H7V6Z" clip-rule="evenodd"/>
+  <path fill-rule="evenodd" d="M2 11a2 2 0 0 1 2-2h11a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-7Zm7.5 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5Z" clip-rule="evenodd"/>
+  <path d="M10.5 14.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"/>
+</svg></a> -->
+          <a href="#" class="hover:text-primary">CASH</a>
         </div>
       </div>
       <div class=" flex items-center px-10 ">
